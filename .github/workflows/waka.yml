@@ -11,9 +11,6 @@ on:
     pull_request:
         branches:
             - main
-    commit:
-        branches:
-            - main
 
 jobs:
     update-readme:
