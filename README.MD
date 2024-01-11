@@ -6,8 +6,8 @@
             width="30" />I'm Lukas
         <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/cat_vibe.gif" 
             alt="Cat animated gif"
-            height="40"
-            width="40" />
+            height="25"
+            width="25" />
     </h1>
 <p>
     <a href="https://wakatime.com/@fe20e3cc-9d58-4b87-b19d-591cbffd8134"><img src="https://wakatime.com/badge/user/fe20e3cc-9d58-4b87-b19d-591cbffd8134.svg" alt="wakatime"></a>
