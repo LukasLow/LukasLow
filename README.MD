@@ -56,26 +56,24 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                71 commits          █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-🌆 Daytime                87 commits          ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
-🌃 Evening                179 commits         ████████████░░░░░░░░░░░░░   46.61 % 
-🌙 Night                  47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+🌞 Morning                71 commits          █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+🌆 Daytime                87 commits          ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+🌃 Evening                179 commits         ████████████░░░░░░░░░░░░░   46.25 % 
+🌙 Night                  50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   77 commits          █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Tuesday                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Wednesday                25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Thursday                 110 commits         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-Friday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Saturday                 58 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Sunday                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Monday                   77 commits          █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Tuesday                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Wednesday                25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Thursday                 110 commits         ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+Friday                   56 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Saturday                 58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Sunday                   54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 ```
 
 
@@ -85,29 +83,26 @@ Sunday                   54 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JavaScript               9 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   39.77 % 
-Python                   2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Puppet                   1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-JSON                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-YAML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+JavaScript               9 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.20 % 
+Puppet                   2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Python                   2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Markdown                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+JSON                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 24 mins      ████████████████████████░   96.68 % 
-iTerm2                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+VS Code                  23 hrs 24 mins      █████████████████████████   99.16 % 
+iTerm2                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🐱‍💻 Projects: 
-thunderbird-plugin       6 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-applemdm-puppet          3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-dizcover_flutter         3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-check_domain             2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-dizcover-expo            1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-
-💻 Operating System: 
-Mac                      24 hrs 12 mins      █████████████████████████   100.00 % 
+thunderbird-plugin       6 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+applemdm-puppet          3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+dizcover_flutter         3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+check_domain             2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+LukasLow                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 ```
 
 
- Last Updated on 11/01/2024 23:03:08 UTC
+ Last Updated on 11/01/2024 23:08:10 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
