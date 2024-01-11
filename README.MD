@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi 
-    <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/wave.gif" 
+    <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/waving.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />
