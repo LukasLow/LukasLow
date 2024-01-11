@@ -1,5 +1,10 @@
 <div align="center">
-<h1>Hi 👋, I'm Lukas</h1>
+<h1>Hi 
+    <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+    I'm Lukas</h1>
 <p>
 <a href="https://wakatime.com/@fe20e3cc-9d58-4b87-b19d-591cbffd8134"><img src="https://wakatime.com/badge/user/fe20e3cc-9d58-4b87-b19d-591cbffd8134.svg" alt="wakatime"></a>
 <a href="https://lukas.lowsky.eu/"><img src="https://img.shields.io/badge/My_Website-lowsky.eu-green" /></a>
