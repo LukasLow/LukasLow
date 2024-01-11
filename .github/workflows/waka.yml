@@ -25,7 +25,7 @@ jobs:
                 SHOW_LANGUAGE: "True"
                 SHOW_DAYS_OF_WEEK: "True"
                 SHOW_TIMEZONE: "True"
-                SHOW_OS: "True"
+                SHOW_OS: "Flase"
                 SHOW_EDITORS: "True"
                 SHOW_LANGUAGE_PER_REPO: "False"
                 SHOW_SHORT_INFO: "False"
