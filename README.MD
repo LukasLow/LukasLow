@@ -39,7 +39,7 @@
 
 ### 🧰 Commonly used tools
 
-![macos](https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white&color=black&style=flat)
+![macos](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&color=black&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white&style=flat)
