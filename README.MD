@@ -1,13 +1,18 @@
 <div align="center">
-<h1>Hi 
-    <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/waving.gif" 
-         alt="Waving hand animated gif"
-         height="30"
-         width="30" />I'm Lukas</h1>
+    <h1>Hi 
+        <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/waving.gif" 
+            alt="Waving hand animated gif"
+            height="30"
+            width="30" />I'm Lukas
+        <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/cat_vibe.gif" 
+            alt="Cat animated gif"
+            height="40"
+            width="40" />
+    </h1>
 <p>
-<a href="https://wakatime.com/@fe20e3cc-9d58-4b87-b19d-591cbffd8134"><img src="https://wakatime.com/badge/user/fe20e3cc-9d58-4b87-b19d-591cbffd8134.svg" alt="wakatime"></a>
-<a href="https://lukas.lowsky.eu/"><img src="https://img.shields.io/badge/My_Website-lowsky.eu-green" /></a>
-<a><img src="https://komarev.com/ghpvc/?username=lukaslow&label=Profile%20views&color=0e75b6&style=flat" alt="lukaslow" /></a>
+    <a href="https://wakatime.com/@fe20e3cc-9d58-4b87-b19d-591cbffd8134"><img src="https://wakatime.com/badge/user/fe20e3cc-9d58-4b87-b19d-591cbffd8134.svg" alt="wakatime"></a>
+    <a href="https://lukas.lowsky.eu/"><img src="https://img.shields.io/badge/My_Website-lowsky.eu-green" /></a>
+    <a><img src="https://komarev.com/ghpvc/?username=lukaslow&label=Profile%20views&color=0e75b6&style=flat" alt="lukaslow" /></a>
 </p>
 
 <!--  skill badge -->
