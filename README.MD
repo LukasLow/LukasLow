@@ -27,6 +27,11 @@
 <a href="https://golang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Go.png" alt="go" width="80" height="100"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Django.png" alt="django" width="80" height="100"/></a>
 <a href="https://www.latex-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/LaTeX.png" alt="latex" width="80" height="100"/></a>
+<a href="https://puppet.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/puppet.png" alt="puppet" width="80" height="100"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/linux.png" alt="linux" width="80" height="100"/></a>
+<a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/ubuntu.png" alt="ubuntu" width="80" height="100"/></a>
+<a href="https://www.apple.com/macos/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/macos.png" alt="macos" width="80" height="100"/></a>
+<a href="https://www.apple.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/apple.png" alt="apple" width="80" height="100"/></a>
 
 ### 💪  I'm learning
 
