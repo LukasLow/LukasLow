@@ -56,6 +56,7 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/git.png" alt="git" height="75"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/github.png" alt="github" height="75"/></a>
 <a href="https://about.gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/gitlab.png" alt="gitlab" height="75"/></a>
+<br>
 <a href="https://wakatime.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/wakatime.png" alt="wakatime" height="75"/></a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/googlecloud.png" alt="googlecloud" height="75"/></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/postman.png" alt="postman" height="75"/></a>
