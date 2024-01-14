@@ -18,7 +18,7 @@ jobs:
         node-version: '14'
 
     - name: Install dependencies
-      run: yarn
+      run: cd bildchen && yarn
 
     - name: Run script
-      run: node main.js
+      run: cd bildchen && node main.js
