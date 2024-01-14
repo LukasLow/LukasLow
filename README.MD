@@ -25,14 +25,16 @@
 <a href="https://golang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Go.png" alt="go" width="75" height="100"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Django.png" alt="django" width="75" height="100"/></a>
 <a href="https://www.latex-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/LaTeX.png" alt="latex" width="75" height="100"/></a>
+<a href="https://www.jamf.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/jamf.png" alt="jamf" width="75" height="100"/></a>
 <a href="https://puppet.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/puppet.png" alt="puppet" width="75" height="100"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/bash.png" alt="bash" width="75" height="100"/></a>
 
 ## 🧰 Commonly used tools
 
-<a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Docker.png" alt="docker" width="75" height="100"/></a>
+<a href="https://www.apple.com/iphone/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/iphone.png" alt="iphone" width="75" height="100"/></a>
 <a href="https://www.apple.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/apple.png" alt="apple" width="75" height="100"/></a>
 <a href="https://www.apple.com/macos/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/macos.png" alt="macos" width="75" height="100"/></a>
+<a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Docker.png" alt="docker" width="75" height="100"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/linux.png" alt="linux" width="75" height="100"/></a>
 <a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/ubuntu.png" alt="ubuntu" width="75" height="100"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/vscode.png" alt="vscode" width="75" height="100"/></a>
@@ -40,9 +42,15 @@
 <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/github.png" alt="github" width="75" height="100"/></a>
 <a href="https://about.gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/gitlab.png" alt="gitlab" width="75" height="100"/></a>
 <a href="https://wakatime.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/wakatime.png" alt="wakatime" width="75" height="100"/></a>
+<a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/googlecloud.png" alt="googlecloud" width="75" height="100"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/postman.png" alt="postman" width="75" height="100"/></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/githubactions.png" alt="githubactions" width="75" height="100"/></a>
+<a href="https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/CI-CD.png" alt="CI-CD" width="75" height="100"/></a>
+<a href="https://www.gimp.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/gimp.png" alt="gimp" width="75" height="100"/></a>
 
 ## 🧠 Plan to study
 
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/flask.png" alt="flask" width="75" height="100"/></a>
 <a href="https://www.learn-c.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/c.png" alt="c" width="75" height="100"/></a>
 <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/c++.png" alt="c++" width="75" height="100"/></a>
 <a href="https://swift.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/swift.png" alt="swift" width="75" height="100"/></a>
@@ -52,6 +60,10 @@
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/react.png" alt="react" width="75" height="100"/></a>
 <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/java.png" alt="java" width="75" height="100"/></a>
 <a href="https://neovim.io/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/neovim.png" alt="neovim" width="75" height="100"/></a>
+<a href="https://kubernetes.io/docs/reference/kubectl/overview/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/kubectl.png" alt="kubectl" width="75" height="100"/></a>
+<a href="https://developer.apple.com/ios/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/ios.png" alt="ios" width="75" height="100"/></a>
+<a href="https://www.ansible.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/ansible.png" alt="ansible" width="75" height="100"/></a>
+<a href="https://grafana.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/grafana.png" alt="grafana" width="75" height="100"/></a>
 
 ---
 <!--START_SECTION:waka-->
