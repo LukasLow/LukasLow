@@ -21,7 +21,8 @@ doing my Bachelor's degree in <b>Physics</b>.<br>
  I'm working as a <b>Student Assistant</b> at 
 <a href="https://www.gwdg.de/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/GWDG.png" height="18"/> <b>GWDG</b></a>
 , an institution closely associated with the 
-<a href="https://www.mpg.de/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/MPG.png" height="18"/> <b>Max Planck Society</b></a>
+<a href="https://www.mpg.de/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/MPG.png" height="18"/> <b>Max Planck Society</b></a>,
+<a href="https://uni-goettingen.de/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/Uni-Goe.png" height="18"/> <b>University of Göttingen</b></a>
  and the 
 <a href="https://www.umg.eu/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/UMG.png" height="18"/> <b>University Medical Center</b></a>.
 </p>
