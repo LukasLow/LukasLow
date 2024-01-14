@@ -14,11 +14,18 @@
     <a href="https://lukas.lowsky.eu/"><img src="https://img.shields.io/badge/My_Website-lowsky.eu-green" /></a>
     <a><img src="https://komarev.com/ghpvc/?username=lukaslow&label=Profile%20views&color=0e75b6&style=flat" alt="lukaslow" /></a>
 </p>
-<p>
-    Welcome to my page! </br> I'm Lukas, a Student studying at <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/Uni_Göttingen_long.png" height="18"/> <b></b> 
-    doing my Bachelor's degree in <b>Physics</b> I'm working as a <b>Student Assistant</b> at <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/Gwdg-logo-neu.png" height="13"/> <b></b>
+Welcome to my page! <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/hi.png" height="18"/></br> 
+I'm Lukas, a Student studying at <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/Uni-Goe.png" height="18"/> <b>University of Göttingen</b> 
+doing my Bachelor's degree in <b>Physics</b> I'm working as a <b>Student Assistant</b> at <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/GWDG.png" height="18"/> <b>GWDG</b>, an institution closely associated with the,
+ <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/MPG.png" height="18"/> <b>Max Planck Society</b>
+ the <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/Uni-Goe.png" height="18"/> <b>University of Göttingen</b>,
+ and the <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/UMG.png" height="18"/> <b>University Medical Center</b>.
 </p>
+
+
+
 <!--  skill badge -->
+
 ## 💪  I'm learning
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/JavaScript.png" alt="javascript" width="75" height="100"/></a>
