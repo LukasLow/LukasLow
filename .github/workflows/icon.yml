@@ -22,3 +22,10 @@ jobs:
 
     - name: Run script
       run: cd bildchen && node main.js
+
+    - name: Commit files
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Add generated icons
+        commit_options: '--no-verify --all'
+        file_pattern: bildchen/icons/*
