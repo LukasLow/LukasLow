@@ -26,17 +26,7 @@
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Django.png" alt="django" width="75" height="100"/></a>
 <a href="https://www.latex-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/LaTeX.png" alt="latex" width="75" height="100"/></a>
 <a href="https://puppet.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/puppet.png" alt="puppet" width="75" height="100"/></a>
-
-## 🧠 Plan to study
-
-<a href="https://www.learn-c.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/c.png" alt="c" width="75" height="100"/></a>
-<a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/c++.png" alt="c++" width="75" height="100"/></a>
-<a href="https://swift.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/swift.png" alt="swift" width="75" height="100"/></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Rust.png" alt="rust" width="75" height="100"/></a>
-<a href="https://www.ruby-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/ruby.png" alt="ruby" width="75" height="100"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/typescript.png" alt="typescript" width="75" height="100"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/react.png" alt="react" width="75" height="100"/></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/java.png" alt="java" width="75" height="100"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/bash.png" alt="bash" width="75" height="100"/></a>
 
 ## 🧰 Commonly used tools
 
@@ -50,6 +40,19 @@
 <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/github.png" alt="github" width="75" height="100"/></a>
 <a href="https://about.gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/gitlab.png" alt="gitlab" width="75" height="100"/></a>
 <a href="https://wakatime.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/wakatime.png" alt="wakatime" width="75" height="100"/></a>
+
+## 🧠 Plan to study
+
+<a href="https://www.learn-c.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/c.png" alt="c" width="75" height="100"/></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/c++.png" alt="c++" width="75" height="100"/></a>
+<a href="https://swift.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/swift.png" alt="swift" width="75" height="100"/></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Rust.png" alt="rust" width="75" height="100"/></a>
+<a href="https://www.ruby-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/ruby.png" alt="ruby" width="75" height="100"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/typescript.png" alt="typescript" width="75" height="100"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/react.png" alt="react" width="75" height="100"/></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/java.png" alt="java" width="75" height="100"/></a>
+<a href="https://neovim.io/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/neovim.png" alt="neovim" width="75" height="100"/></a>
+
 ---
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
