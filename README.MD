@@ -15,7 +15,7 @@
     <a><img src="https://komarev.com/ghpvc/?username=lukaslow&label=Profile%20views&color=0e75b6&style=flat" alt="lukaslow" /></a>
 </p>
 <p>
-    Welcome to my page! </br> I'm Lukas, a Student studying at <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/Uni_Göttingen_long.png" height="13"/> <b></b> 
+    Welcome to my page! </br> I'm Lukas, a Student studying at <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/Uni_Göttingen_long.png" height="18"/> <b></b> 
     doing my Bachelor's degree in <b>Physics</b> I'm working as a <b>Student Assistant</b> at <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/Gwdg-logo-neu.png" height="13"/> <b></b>
 </p>
 <!--  skill badge -->
