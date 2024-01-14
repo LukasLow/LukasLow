@@ -13,19 +13,16 @@
     <a href="https://wakatime.com/@fe20e3cc-9d58-4b87-b19d-591cbffd8134"><img src="https://wakatime.com/badge/user/fe20e3cc-9d58-4b87-b19d-591cbffd8134.svg" alt="wakatime"></a>
     <a href="https://lukas.lowsky.eu/"><img src="https://img.shields.io/badge/My_Website-lowsky.eu-green" /></a>
     <a><img src="https://komarev.com/ghpvc/?username=lukaslow&label=Profile%20views&color=0e75b6&style=flat" alt="lukaslow" /></a>
-</p>
-Welcome to my page! <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/hi.png" height="18"/></br> 
-I'm Lukas, a Student studying at <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/Uni-Goe.png" height="18"/> <b>University of Göttingen</b> 
-doing my Bachelor's degree in <b>Physics</b> I'm working as a <b>Student Assistant</b> at <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/GWDG.png" height="18"/> <b>GWDG</b>, an institution closely associated with the,
- <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/MPG.png" height="18"/> <b>Max Planck Society</b>
- the <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/Uni-Goe.png" height="18"/> <b>University of Göttingen</b>,
- and the <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/UMG.png" height="18"/> <b>University Medical Center</b>.
-</p>
 
 <p>
-Welcome to my page! <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/hi.png" height="18"/></br> 
+Welcome to my page! <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/hi.png" height="28"/></br> 
 I'm Lukas, a Student studying at <a href="https://uni-goettingen.de/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/Uni-Goe.png" height="18"/> <b>University of Göttingen</b></a> 
-doing my Bachelor's degree in <b>Physics</b> I'm working as a <b>Student Assistant</b> at <a href="https://www.gwdg.de/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/GWDG.png" height="18"/> <b>GWDG</b></a>, an institution closely associated with the <a href="https://www.mpg.de/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/MPG.png" height="18"/> <b>Max Planck Society</b></a> and the <a href="https://www.umg.eu/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/UMG.png" height="18"/> <b>University Medical Center</b></a>.
+doing my Bachelor's degree in <b>Physics</b>. I'm working as a <b>Student Assistant</b> at 
+<a href="https://www.gwdg.de/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/GWDG.png" height="18"/> <b>GWDG</b></a>
+, an institution closely associated with the 
+<a href="https://www.mpg.de/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/MPG.png" height="18"/> <b>Max Planck Society</b></a>
+ and the 
+<a href="https://www.umg.eu/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/UMG.png" height="18"/> <b>University Medical Center</b></a>.
 </p>
 
 
