@@ -18,6 +18,18 @@
 <!--  skill badge -->
 ### 💪  I'm learning
 
+<a href="https://docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Docker.png" alt="docker" width="80" height="100"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/JavaScript.png" alt="javascript" width="80" height="100"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Python.png" alt="python" width="80" height="100"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/HTML5.png" alt="html5" width="80" height="100"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/CSS3.png" alt="css3" width="80" height="100"/> </a>
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Rust.png" alt="rust" width="80" height="100"/> </a>
+<a href="https://golang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Go.png" alt="go" width="80" height="100"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Django.png" alt="django" width="80" height="100"/> </a>
+<a href="https://www.latex-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/LaTeX.png" alt="latex" width="80" height="100"/> </a>
+
+### 💪  I'm learning
+
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -45,7 +57,7 @@
 ![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white&style=flat)
 
 
-
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Docker.png" alt="bash" width="80" height="100"/> </a>
 ---
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
