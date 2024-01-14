@@ -42,6 +42,15 @@ async function takeScreenshot(htmlTemplate, text) {
 }
 
 function generateHTMLTemplate(icon, text) {
+  // Calculate font size based on text length
+  let fontSize = 100; // default font size
+  if (text.length > 10) {
+    fontSize = 75; // reduce font size for longer text
+  }
+  if (text.length > 15) {
+    fontSize = 50; // further reduce for even longer text
+  }
+
   return `
   <!DOCTYPE html>
   <html lang="en">
@@ -98,7 +107,7 @@ function generateHTMLTemplate(icon, text) {
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: 100px;
+      font-size: ${fontSize}px; // use calculated font size
       font-family: 'Righteous';
     }
   </style>

@@ -31,7 +31,7 @@
 
 ## 🧰 Commonly used tools
 
-<a href="https://www.apple.com/iphone/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/iphone.png" alt="iphone" width="75" height="100"/></a>
+<!-- <a href="https://www.apple.com/iphone/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/iphone.png" alt="iphone" width="75" height="100"/></a> -->
 <a href="https://www.apple.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/apple.png" alt="apple" width="75" height="100"/></a>
 <a href="https://www.apple.com/macos/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/macos.png" alt="macos" width="75" height="100"/></a>
 <a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Docker.png" alt="docker" width="75" height="100"/></a>
