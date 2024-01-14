@@ -1,4 +1,4 @@
-<div align="center">
+i<div align="center">
     <h1>Hi 
         <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/waving.gif" 
             alt="Waving hand animated gif"
@@ -26,7 +26,7 @@
 <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Rust.png" alt="rust" width="80" height="100"/></a>
 <a href="https://golang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Go.png" alt="go" width="80" height="100"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Django.png" alt="django" width="80" height="100"/></a>
-<a href="https://www.latex-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/LaTeX.png" alt="latex" width="80" height="100 href="https://www.latex-project.org/"/></a>
+<a href="https://www.latex-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/LaTeX.png" alt="latex" width="80" height="100"/></a>
 
 ### 💪  I'm learning
 
