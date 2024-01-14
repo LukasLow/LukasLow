@@ -42,76 +42,80 @@ async function takeScreenshot(htmlTemplate, text) {
 }
 
 function generateHTMLTemplate(icon, text) {
-    return `
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Technology Showcase</title>
-    <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet"> 
-    <style>
-        :root {
-            --random-color: hsl(calc(360 * var(--random)), 70%, 75%);
-            --random: 2;
-        }
+  return `
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Technology Showcase</title>
+  <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet"> 
+  <style>
+    :root {
+      --random-color: hsl(calc(360 * var(--random)), 70%, 75%);
+      --random: 2;
+    }
 
-        body {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            background-color: #f0f0f0;
-        }
+    body {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      background-color: #f0f0f0;
+    }
 
-        .outer-box {
-            border: 10px solid black;
-            width: 500px;
-            height: 750px;
-            margin: 20px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            text-align: center;
-            border-radius: 100px;
-            overflow: hidden;
-            background: linear-gradient(to bottom, transparent 520px, black 520px, black 524px, transparent 524px), var(--random-color);
-        }
+    .outer-box {
+      border: 10px solid black;
+      width: 500px;
+      height: 750px;
+      margin: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      border-radius: 100px;
+      overflow: hidden;
+      background: linear-gradient(to bottom, transparent 520px, black 520px, black 524px, transparent 524px), var(--random-color);
+    }
 
-        .image-container {
-            width: 100%;
-            height: 480px;
-            padding: 10px;
-            box-sizing: border-box;
-        }
+    .image-container {
+      width: 100%;
+      height: 480px;
+      padding: 10px;
+      box-sizing: border-box;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
 
-        .image-container img {
-            width: 100%;
-            height: auto;
-        }
+    .image-container img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+    }
 
-        .text-container {
-            height: 350px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 100px;
-            font-family: 'Righteous';
-        }
-    </style>
-    <script>
-        document.documentElement.style.setProperty('--random', Math.random());
-    </script>
-    </head>
-    <body style="background: transparent;">
+    .text-container {
+      height: 350px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 100px;
+      font-family: 'Righteous';
+    }
+  </style>
+  <script>
+    document.documentElement.style.setProperty('--random', Math.random());
+  </script>
+  </head>
+  <body style="background: transparent;">
 
-    <div class="outer-box">
-        <div class="image-container">
-            <img src="${icon}" alt="${text} Logo">
-        </div>
-        <div class="text-container">${text}</div>
+  <div class="outer-box">
+    <div class="image-container">
+      <img src="${icon}" alt="${text} Logo">
     </div>
+    <div class="text-container">${text}</div>
+  </div>
 
-    </body>
-    </html>
-    `;
+  </body>
+  </html>
+  `;
 }
