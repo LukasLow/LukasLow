@@ -15,16 +15,16 @@
     <a><img src="https://komarev.com/ghpvc/?username=lukaslow&label=Profile%20views&color=0e75b6&style=flat" alt="lukaslow" /></a>
 
 <p>
-Welcome to my page! <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/hi.png" height="28"/></br> 
-I'm Lukas, a Student studying at <a href="https://uni-goettingen.de/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/Uni-Goe.png" height="18"/> <b>University of Göttingen</b></a> 
-doing my Bachelor's degree in <b>Physics</b>.<br>
- I'm working as a <b>Student Assistant</b> at 
-<a href="https://www.gwdg.de/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/GWDG.png" height="18"/> <b>GWDG</b></a>
-, an institution closely associated with the 
-<a href="https://www.mpg.de/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/MPG.png" height="18"/> <b>Max Planck Society</b></a>,
-<a href="https://uni-goettingen.de/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/Uni-Goe.png" height="18"/> <b>University of Göttingen</b></a>
- and the 
-<a href="https://www.umg.eu/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/UMG.png" height="18"/> <b>University Medical Center</b></a>.
+    Welcome to my page! <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/hi.png" height="28"/></br> 
+    I'm Lukas, a Student studying at <a href="https://uni-goettingen.de/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/Uni-Goe.png" height="18"/> <b>University of Göttingen</b></a> 
+    doing my Bachelor's degree in <b>Physics</b>.<br>
+    I'm working as a <b>Student Assistant</b> at 
+    <a href="https://www.gwdg.de/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/GWDG.png" height="18"/> <b>GWDG</b></a>
+    , an institution closely associated with the 
+    <a href="https://www.mpg.de/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/MPG.png" height="18"/> <b>Max Planck Society</b></a>,
+    <a href="https://uni-goettingen.de/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/Uni-Goe.png" height="18"/> <b>University of Göttingen</b></a>
+    and the 
+    <a href="https://www.umg.eu/"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/UMG.png" height="18"/> <b>University Medical Center</b></a>.
 </p>
 
 
@@ -32,52 +32,52 @@ doing my Bachelor's degree in <b>Physics</b>.<br>
 
 ## 💪  I'm learning
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/JavaScript.png" alt="javascript" width="75" height="100"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Python.png" alt="python" width="75" height="100"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/HTML5.png" alt="html5" width="75" height="100"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/CSS3.png" alt="css3" width="75" height="100"/></a>
-<a href="https://golang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Go.png" alt="go" width="75" height="100"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Django.png" alt="django" width="75" height="100"/></a>
-<a href="https://www.latex-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/LaTeX.png" alt="latex" width="75" height="100"/></a>
-<a href="https://www.jamf.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/jamf.png" alt="jamf" width="75" height="100"/></a>
-<a href="https://puppet.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/puppet.png" alt="puppet" width="75" height="100"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/bash.png" alt="bash" width="75" height="100"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/JavaScript.png" alt="javascript" height="80"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Python.png" alt="python" height="80"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/HTML5.png" alt="html5" height="80"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/CSS3.png" alt="css3" height="80"/></a>
+<a href="https://golang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Go.png" alt="go" height="80"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Django.png" alt="django" height="80"/></a>
+<a href="https://www.latex-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/LaTeX.png" alt="latex" height="80"/></a>
+<a href="https://www.jamf.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/jamf.png" alt="jamf" height="80"/></a>
+<a href="https://puppet.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/puppet.png" alt="puppet" height="80"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/bash.png" alt="bash" height="80"/></a>
 
 ## 🧰 Commonly used tools
 
-<!-- <a href="https://www.apple.com/iphone/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/iphone.png" alt="iphone" width="75" height="100"/></a> -->
-<a href="https://www.apple.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/apple.png" alt="apple" width="75" height="100"/></a>
-<a href="https://www.apple.com/macos/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/macos.png" alt="macos" width="75" height="100"/></a>
-<a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Docker.png" alt="docker" width="75" height="100"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/linux.png" alt="linux" width="75" height="100"/></a>
-<a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/ubuntu.png" alt="ubuntu" width="75" height="100"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/vscode.png" alt="vscode" width="75" height="100"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/git.png" alt="git" width="75" height="100"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/github.png" alt="github" width="75" height="100"/></a>
-<a href="https://about.gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/gitlab.png" alt="gitlab" width="75" height="100"/></a>
-<a href="https://wakatime.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/wakatime.png" alt="wakatime" width="75" height="100"/></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/googlecloud.png" alt="googlecloud" width="75" height="100"/></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/postman.png" alt="postman" width="75" height="100"/></a>
-<a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/githubactions.png" alt="githubactions" width="75" height="100"/></a>
-<a href="https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/CI-CD.png" alt="CI-CD" width="75" height="100"/></a>
-<a href="https://www.gimp.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/gimp.png" alt="gimp" width="75" height="100"/></a>
+<!-- <a href="https://www.apple.com/iphone/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/iphone.png" alt="iphone" height="80"/></a> -->
+<a href="https://www.apple.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/apple.png" alt="apple" height="80"/></a>
+<a href="https://www.apple.com/macos/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/macos.png" alt="macos" height="80"/></a>
+<a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Docker.png" alt="docker" height="80"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/linux.png" alt="linux" height="80"/></a>
+<a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/ubuntu.png" alt="ubuntu" height="80"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/vscode.png" alt="vscode" height="80"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/git.png" alt="git" height="80"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/github.png" alt="github" height="80"/></a>
+<a href="https://about.gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/gitlab.png" alt="gitlab" height="80"/></a>
+<a href="https://wakatime.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/wakatime.png" alt="wakatime" height="80"/></a>
+<a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/googlecloud.png" alt="googlecloud" height="80"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/postman.png" alt="postman" height="80"/></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/githubactions.png" alt="githubactions" height="80"/></a>
+<a href="https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/CI-CD.png" alt="CI-CD" height="80"/></a>
+<a href="https://www.gimp.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/gimp.png" alt="gimp" height="80"/></a>
 
 ## 🧠 Plan to study
 
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/flask.png" alt="flask" width="75" height="100"/></a>
-<a href="https://www.learn-c.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/c.png" alt="c" width="75" height="100"/></a>
-<a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/c++.png" alt="c++" width="75" height="100"/></a>
-<a href="https://swift.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/swift.png" alt="swift" width="75" height="100"/></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Rust.png" alt="rust" width="75" height="100"/></a>
-<a href="https://www.ruby-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/ruby.png" alt="ruby" width="75" height="100"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/typescript.png" alt="typescript" width="75" height="100"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/react.png" alt="react" width="75" height="100"/></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/java.png" alt="java" width="75" height="100"/></a>
-<a href="https://neovim.io/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/neovim.png" alt="neovim" width="75" height="100"/></a>
-<a href="https://kubernetes.io/docs/reference/kubectl/overview/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/kubectl.png" alt="kubectl" width="75" height="100"/></a>
-<a href="https://developer.apple.com/ios/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/ios.png" alt="ios" width="75" height="100"/></a>
-<a href="https://www.ansible.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/ansible.png" alt="ansible" width="75" height="100"/></a>
-<a href="https://grafana.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/grafana.png" alt="grafana" width="75" height="100"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/flask.png" alt="flask" height="80"/></a>
+<a href="https://www.learn-c.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/c.png" alt="c" height="80"/></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/c++.png" alt="c++" height="80"/></a>
+<a href="https://swift.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/swift.png" alt="swift" height="80"/></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Rust.png" alt="rust" height="80"/></a>
+<a href="https://www.ruby-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/ruby.png" alt="ruby" height="80"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/typescript.png" alt="typescript" height="80"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/react.png" alt="react" height="80"/></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/java.png" alt="java" height="80"/></a>
+<a href="https://neovim.io/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/neovim.png" alt="neovim" height="80"/></a>
+<a href="https://kubernetes.io/docs/reference/kubectl/overview/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/kubectl.png" alt="kubectl" height="80"/></a>
+<a href="https://developer.apple.com/ios/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/ios.png" alt="ios" height="80"/></a>
+<a href="https://www.ansible.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/ansible.png" alt="ansible" height="80"/></a>
+<a href="https://grafana.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/grafana.png" alt="grafana" height="80"/></a>
 
 ---
 <!--START_SECTION:waka-->
