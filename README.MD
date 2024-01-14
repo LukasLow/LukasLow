@@ -1,4 +1,4 @@
-i<div align="center">
+<div align="center">
     <h1>Hi 
         <img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/icons/waving.gif" 
             alt="Waving hand animated gif"
