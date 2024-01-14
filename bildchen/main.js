@@ -58,7 +58,7 @@ function generateHTMLTemplate(icon, text) {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Technology Showcase</title>
-  <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
   <style>
     :root {
       --random-color: hsl(calc(360 * var(--random)), 70%, 75%);
@@ -107,7 +107,7 @@ function generateHTMLTemplate(icon, text) {
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: ${fontSize}px; // use calculated font size
+      font-size: ${fontSize}px;
       font-family: 'Righteous';
     }
   </style>
