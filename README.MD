@@ -18,7 +18,6 @@
 <!--  skill badge -->
 ## 💪  I'm learning
 
-<a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Docker.png" alt="docker" width="75" height="100"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/JavaScript.png" alt="javascript" width="75" height="100"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Python.png" alt="python" width="75" height="100"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/HTML5.png" alt="html5" width="75" height="100"/></a>
@@ -28,10 +27,6 @@
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Django.png" alt="django" width="75" height="100"/></a>
 <a href="https://www.latex-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/LaTeX.png" alt="latex" width="75" height="100"/></a>
 <a href="https://puppet.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/puppet.png" alt="puppet" width="75" height="100"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/linux.png" alt="linux" width="75" height="100"/></a>
-<a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/ubuntu.png" alt="ubuntu" width="75" height="100"/></a>
-<a href="https://www.apple.com/macos/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/macos.png" alt="macos" width="75" height="100"/></a>
-<a href="https://www.apple.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/apple.png" alt="apple" width="75" height="100"/></a>
 
 ## 🧠 Plan to study
 
@@ -45,6 +40,11 @@
 
 ## 🧰 Commonly used tools
 
+<a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/Docker.png" alt="docker" width="75" height="100"/></a>
+<a href="https://www.apple.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/apple.png" alt="apple" width="75" height="100"/></a>
+<a href="https://www.apple.com/macos/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/macos.png" alt="macos" width="75" height="100"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/linux.png" alt="linux" width="75" height="100"/></a>
+<a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/ubuntu.png" alt="ubuntu" width="75" height="100"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/vscode.png" alt="vscode" width="75" height="100"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/git.png" alt="git" width="75" height="100"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/LukasLow/LukasLow/main/bildchen/icons/github.png" alt="github" width="75" height="100"/></a>
