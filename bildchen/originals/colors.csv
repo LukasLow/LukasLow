@@ -1,0 +1,11 @@
+filename,text,bg
+go,GO,#A5E6F3
+bash,Bash,#D4EDBC
+apple,Apple,#F2F2F2
+macos,macOS,#E8E8ED
+docker,Docker,#B8DFFF
+linux,Linux,#FFF4C2
+nixdarwin,NixDarwin,#C6D4F5
+vscode,VS Code,#B3E0F7
+rust,Rust,#FFD1C9
+ci-cd,CI-CD,#FFD6D6
