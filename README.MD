@@ -30,7 +30,7 @@
 | Name | Text | Status |
 |------|------|--------|
 | [**Aurellow**](https://github.com/LukasLow/Aurellow) | an Economics Browsergame | 📋 planning |
-| [**Dreego**](https://github.com/LukasLow/Dreego) | a fullstack Web framework | 🔜 close to v0.1 |
+| [**Dreego**](https://github.com/dreego-stack/dreego) | a fullstack Web framework | 🔜 close to v0.1 |
 | [**Flow**](https://github.com/LukasLow/Flow) | Dynamic scripting language with types for compiled Go binaries (like Lua) | 🔒 unreleased |
 
 ## 🛠️ I'm using
